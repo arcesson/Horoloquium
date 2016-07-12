@@ -23,9 +23,3 @@ qmake
 make
 sudo make install
 ```
-
-## License
-For license see COPYING.txt.
-
-## Authors
-Stefan 'ueberfluessig91' Kleyer (https://launchpad.net/~ueberfluessig91)
