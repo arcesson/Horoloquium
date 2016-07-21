@@ -8,6 +8,8 @@ Horologium is a simple Qt application that displays the remaining time for teamw
 
 Written in pure C++/Qt.
 
+![](Horoloquium_4.png)
+
 ## Build && Install for Ubuntu
 
 ### Dependencies
